@@ -1,0 +1,5 @@
+1. git init: Inicializa un nuevo repositorio local de Git en el directorio actual.
+2. git status: Muestra el estado actual del directorio de trabajo y del área de preparación (staging area).
+3. git add: Añade los cambios del directorio de trabajo al área de preparación para el próximo commit.
+4. git commit: Registra una captura de los cambios que están en el área de preparación en el historial del repositorio.
+5. git log: Muestra el historial de commits realizados en la rama actual.
